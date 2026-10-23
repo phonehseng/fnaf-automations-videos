@@ -118,11 +118,28 @@ Rules for palettes:
    small vs huge (scale reveals), slow vs fast.
 5. **Complete endings.** A short ends with a recap card of 3-4 checked lines
    and one last line that lands. Never "follow for part 2" or a cliffhanger.
-6. **Long form (5-10 min):**
-   - chapters of 25-60 seconds with 2-7 narration cues each;
-   - a cold open, the problem, how it works, complications with evidence,
-     results with real data, and a closing on the deeper point;
-   - vary the technique across chapters (2D, 3D, footage, data).
+6. **Long form (5-10 min) is a class being taught.** The narrator is a
+   professor and the viewer is a student who should leave able to explain
+   the topic.
+   - **Opening:** a cold open on something real, then "today's lesson": the
+     question the class answers, and a short agenda shown as a numbered
+     list.
+   - **Teaching:** chapters of 25-60 seconds with 2-7 cues each, ordered
+     from basics to advanced so every chapter builds on the last.
+     - Define each term the first time it appears, on screen as a
+       definition card (term, one-line meaning).
+     - Work through examples step by step, as a teacher at a whiteboard
+       would.
+     - Use analogies from everyday life.
+     - Point out common misconceptions ("most people think... but").
+   - **Checking in:** pause now and then for a quick "check your
+     understanding" question, a beat to think, then the answer.
+   - **Evidence:** real footage, real data and real results, including what
+     went wrong and why.
+   - **Closing:** a summary board of the key takeaways, and the one idea to
+     remember.
+   - Vary the technique across chapters (whiteboard-style diagrams, 2D, 3D,
+     footage, data). Technical language is welcome as long as it is taught.
 7. **The tone follows the topic:** creepy, wondrous, funny, epic, calm. The
    picture, the music and the voice all serve it.
 
